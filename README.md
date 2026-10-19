@@ -96,12 +96,3 @@ ipl-analysis-dashboard-2008-2025/
 - Data Visualization
 - Dashboard Design
 
-## Author
-
-**Bijoe Shane**
-
-GitHub: https://github.com/bijoe-byte
-
-## License
-
-This project is licensed under the MIT License.
